@@ -13,3 +13,5 @@ tomcat context.xml
            url="jdbc:mysql://localhost:3306/basicjsp"
            maxWait="5000"       
  	/>
+
+lib = webapp\WEB-INF\lib
